@@ -27,3 +27,5 @@ $ npx expo install @expo-google-fonts/roboto
 ```
 
 - OBS: botei só text em mas dava pr deixar mais organizado (src\components\Post.js)
+
+![Projero final](./assets/foto.jpeg)
