@@ -18,6 +18,7 @@
     "expo": "~52.0.41",
     "expo-font": "~13.0.4",
     "expo-status-bar": "~2.0.1",
+    "native": "file:",
     "react": "^18.3.1",
     "react-native": "0.76.7",
     "react-native-gravatar": "^1.0.2",

@@ -37,11 +37,11 @@ export default class App extends Component {
 
 const styles = StyleSheet.create({
   App: {
-    backgroundColor: '#A55',     //cor fundo AZUL = '#0000FF
-    flexGrow: 1,   // preferencia componente
-    justifyContent: 'center',   // deixar centro
-    alignItems: "center",   // deixar no meio da tela
-    padding: 20    // espaçamentos nas laterias DA TELA TODA(detalhe está sem  aspas)
+    backgroundColor: '#A55',     
+    flexGrow: 1,   
+    justifyContent: 'center',  
+    alignItems: "center",  
+    padding: 20    
 
   },
   buttons: {
