@@ -28,7 +28,5 @@ $ npx expo install @expo-google-fonts/roboto
 
 - OBS: botei só text em mas dava pr deixar mais organizado (src\components\Post.js)
 
-<img src=" https://github.com/FelipeXavier99/native/blob/main/assets/foto.jpeg?raw=true " width="25%" height=auto alt="hook">
-
-
+![Projeto final](https://github.com/FelipeXavier99/native/blob/main/assets/foto.jpeg?raw=true)
 
