@@ -5,8 +5,8 @@ import { Gravatar } from 'react-native-gravatar'
 export default props => {
     return (
         <View style={styles.container}>
-            <Gravatar options={{ email: props.email, secure: true }}
-                style={styles.avatar} />
+            {/* <Gravatar options={{ email: props.email, secure: true }}
+                /> */}
             <Text style={styles.nickname}>{props.nickname}</Text>
         </View>
     )

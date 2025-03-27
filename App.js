@@ -12,24 +12,22 @@ export default class App extends Component {
   render() {
 
 
-    const comments = [{
-      nickname: 'Joana da silva',
-      comment: 'Sou Dev'
-      },{
-        
-          nickname: 'Zé Vieira',
-          comment: 'Belo teste instagram'
-          },{
-      
-      }]
+    // const comments = [{
+    //   comment:'A Ferrari é sinônimo de luxo e performance, criando veículos que iunem design sofisticado e tecnologia de ponta.'
+    //   },
+      //{
+        // comment: '10M revenue in one year.',
+        // icon: require('./assets/imgs/frame2.png'),
+        // },
+        // ]
       
 
 
     return (
       <View style={{ flex: 1 }}>
         <Cabecalho />
-        <Post image={require('./assets/imgs/bw.jpg')} 
-        comments={comments} />
+        <Post image={require('./assets/imgs/carro.png')} 
+        />
       </View>
 
     )
